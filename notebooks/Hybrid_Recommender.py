@@ -151,5 +151,5 @@ def recommender(user_id,movie_title):
     # Add the estimated vote from collaborative filter and add it to our suggested movie dataset, and sort the data based on that estimated vote
     movies_list = movies_list.sort_values('est', ascending=False)
     # Return the top 10 as our final movie recommandation
-    return movies_list[0:10]
+    return movies_list.index[0:10]
 
