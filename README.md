@@ -1,4 +1,7 @@
-![cover_photo](./Image/head.jpg)
+![cover_photo](./Image/head.jpeg)
+
+# Movie Review Sentiment Analysis and Hybrid Recommandation Engine
+
 
 This project tries to combine the sentiment analysis and recommendation system in one package.
 The final goal of this project is to create a recommendation system based on the user review
