@@ -1,4 +1,5 @@
-![cover_photo](./Image/head.jpeg)
+![cover_photo]![head](https://user-images.githubusercontent.com/89098524/169072896-409bf446-451e-42e6-ba3b-5681908879dc.jpeg)
+
 
 # Movie Review Sentiment Analysis and Hybrid Recommandation Engine
 
